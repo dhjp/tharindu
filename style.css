@@ -19,7 +19,7 @@
     box-sizing: border-box;
 
     outline: none; border:none;
-#ff005e00
+
     text-decoration: none;
 
     text-transform: capitalize;
@@ -125,8 +125,8 @@ section{
     color:#fff;
 
     font-size: 1.7rem;
-    
-    text-decoration: none;
+   
+
 
     cursor: pointer;
 
